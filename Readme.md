@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Ajuwin from Bangalore...<br><br>- 🔭 I’m working as Software Engineer.<br>- 📚 I'm currently learning <br>- ⚡ In my free time I</p>
+<p align="left">I'm Ajuwin from Bangalore...<br><br>- 🔭 I’m working as Software Engineer.<br>- 📚 I'm currently learning Elasticsearch <br>-</p>
 
 ###
 
