@@ -8,6 +8,9 @@
   <a href="www.linkedin.com/in/ajuwin-s" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="ajuwinns@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -16,11 +19,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me href=https://github-readme-stats.vercel.app/api?username=Ajuwin&show_icons=true&theme=dark </h3>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Ajuwin from Bangalore...<br><br>- 🔭 I’m working as Software Engineer.<br>- 📚 I'm currently learning Elasticsearch <br></p>
+<p align="left">I'm Ajuwin from Bangalore...<br><br>- 🔭 I’m working as Software Engineer.<br>- 📚 I'm currently learning Elasticsearch. <br></p>
 
 ###
 
@@ -35,9 +38,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -45,3 +52,7 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ajuwin&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
